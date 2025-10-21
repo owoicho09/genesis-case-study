@@ -52,7 +52,7 @@ export default function CaseStudy2() {
           {/* Client Avatar */}
           <div className="mb-8 flex justify-center">
             <img
-              src="/founder-headshot.png"
+              src="/founder-headshot.jpg"
               alt="Client testimonial"
               className="w-24 h-24 rounded-full border-4 border-blue-100 shadow-lg"
             />
@@ -66,7 +66,7 @@ export default function CaseStudy2() {
             >
               {isPlaying ? <Pause className="w-6 h-6" /> : <Play className="w-6 h-6 ml-1" />}
             </button>
-            <audio ref={audioRef} src="/audio feedback.opus" preload="auto" />
+            <audio ref={audioRef} src="/audio feedback1.opus" preload="auto" />
           </div>
 
           {/* Waveform (client-only generated) */}
@@ -92,8 +92,8 @@ export default function CaseStudy2() {
 
           {/* Client Name */}
           <div className="mb-8">
-            <p className="font-semibold text-slate-900">Ken Kiyosi</p>
-            <p className="text-sm text-slate-600">Founder, TechFlow Labs</p>
+            <p className="font-semibold text-slate-900">Ken Casmire</p>
+            <p className="text-sm text-slate-600">Founder, Hunter Marketing Agency</p>
           </div>
 
           {/* CTA */}

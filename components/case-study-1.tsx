@@ -34,7 +34,7 @@ export default function CaseStudy1() {
           <div className="group">
             <div className="bg-slate-100 rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow mb-4">
               <img
-                src="/casesudy after.jpg"
+                src="/casesudy after1.jpg"
                 alt="After Genesis: Booked call confirmed"
                 className="w-full h-auto"
               />
@@ -42,6 +42,8 @@ export default function CaseStudy1() {
             <div className="text-center">
               <h3 className="font-semibold text-slate-900 mb-2">After Genesis</h3>
               <p className="text-sm text-slate-600">  We delivered highly targeted leads to his outreach every week — and within just 5 days, Ken had already booked 3 qualified calls.</p>
+              <p className="text-sm text-slate-600"> It all came down to having a reliable lead flow and an outreach system that actually converts.</p>
+
             </div>
           </div>
         </div>
@@ -51,7 +53,7 @@ export default function CaseStudy1() {
           <p className="text-slate-600 mb-4">Want results like this?</p>
         <Link href={GOOGLE_CALENDAR_LINK} target="_blank" rel="noopener noreferrer">
           <button className="inline-flex items-center justify-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition-colors">
-            Let's Talk
+            Book a call now
           </button>
           </Link>
         </div>
