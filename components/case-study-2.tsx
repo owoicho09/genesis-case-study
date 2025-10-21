@@ -66,7 +66,7 @@ export default function CaseStudy2() {
             >
               {isPlaying ? <Pause className="w-6 h-6" /> : <Play className="w-6 h-6 ml-1" />}
             </button>
-            <audio ref={audioRef} src="/audio-feedback1.mp3" preload="auto" />
+            <audio ref={audioRef} src="/audio0-feedback1.mp3" preload="auto" />
           </div>
 
           {/* Waveform (client-only generated) */}
