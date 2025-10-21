@@ -92,7 +92,7 @@ export default function CaseStudy2() {
 
           {/* Client Name */}
           <div className="mb-8">
-            <p className="font-semibold text-slate-900">Ken Casmire</p>
+            <p className="font-semibold text-slate-900">Ken Kiyoshi</p>
             <p className="text-sm text-slate-600">Founder, Funnel Edge </p>
           </div>
 
