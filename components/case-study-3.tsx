@@ -19,7 +19,7 @@ export default function CaseStudy3() {
         <div className="space-y-8">
           {/* Screenshot 1 - DM Conversations */}
           <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-slate-200 hover:shadow-xl transition-shadow">
-            <img src="/booked calls.jpg" alt="Successful DM conversations" className="w-full h-auto" />
+            <img src="/booked calls1.jpg" alt="Successful DM conversations" className="w-full h-auto" />
             <div className="p-6 bg-gradient-to-r from-blue-50 to-cyan-50">
               <p className="font-semibold text-slate-900 mb-2">Booked calls</p>
               <p className="text-sm text-slate-600">
