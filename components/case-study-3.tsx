@@ -12,7 +12,7 @@ export default function CaseStudy3() {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 text-balance">Proof You Can See</h2>
-  Our client <span className="font-semibold">Ken</span> booked 3 qualified calls within his first week using Gen systems.
+  Our client <span className="font-semibold">Ken</span> booked 3 qualified calls within his first week using Genesis systems.
         </div>
 
         {/* Full-width Screenshots */}

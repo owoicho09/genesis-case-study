@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Genesis Case Study',
-  description: 'Created with v0',
+  title: 'Genesis system',
+  description: 'Client acquisition system',
   generator: 'v0.app',
 }
 

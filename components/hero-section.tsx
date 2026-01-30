@@ -26,13 +26,13 @@ export default function HeroSection() {
         {/* Logo/Brand */}
         <div className="mb-8 inline-block">
           <div className="text-sm font-semibold text-blue-600 bg-blue-50 px-4 py-2 rounded-full">
-            Gen system
+            Genesis system
           </div>
         </div>
 
         {/* Main Headline */}
         <h1 className="text-4xl md:text-6xl font-bold text-slate-900 mb-6 leading-tight text-balance">
-          Gen system
+          Genesis system
         </h1>
 
         {/* Subheadline */}
@@ -72,7 +72,7 @@ export default function HeroSection() {
         {/* Hero Visual - Dashboard Mockup */}
         <div className="relative">
           <div className="bg-white rounded-2xl shadow-2xl overflow-hidden border border-slate-200">
-            <img src="/analytics.JPG" alt="Gen system Dashboard" className="w-full h-auto" />
+            <img src="/analytics.JPG" alt="Genesis system Dashboard" className="w-full h-auto" />
           </div>
           {/* Floating card accent */}
           <div className="absolute -bottom-6 -right-6 bg-white rounded-xl shadow-xl p-4 border border-slate-200 max-w-xs hidden md:block">

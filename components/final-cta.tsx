@@ -19,7 +19,7 @@ export default function FinalCTA() {
 
         {/* Subheading */}
         <p className="text-lg md:text-xl text-blue-100 mb-12 max-w-2xl mx-auto leading-relaxed">
-          Work with Gen system to book more calls and close more deals.
+          Work with Genesis system to book more calls and close more deals.
         </p>
 
         {/* CTA Buttons */}

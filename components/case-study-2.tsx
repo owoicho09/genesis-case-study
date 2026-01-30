@@ -43,7 +43,7 @@ export default function CaseStudy2() {
             Hear It From the Client
           </h2>
           <p className="text-slate-600">
-            Real feedback from client who transformed their outreach with Gen systems
+            Real feedback from client who transformed their outreach with Genesis systems
           </p>
         </div>
 
