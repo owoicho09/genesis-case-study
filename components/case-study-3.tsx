@@ -2,7 +2,7 @@
 import Link from "next/link"
 
 const GOOGLE_CALENDAR_LINK = "https://calendly.com/michaelogaje033/30min";
-const WHATSAPP_NUMBER = "2348142878380"; // Replace with full number (no +)
+const WHATSAPP_NUMBER = "2349165092953"; // Replace with full number (no +)
 const WHATSAPP_MESSAGE = "Hello! I'd like to learn how your client acquisition system works.";
 
 export default function CaseStudy3() {
@@ -12,7 +12,7 @@ export default function CaseStudy3() {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 text-balance">Proof You Can See</h2>
-  Our client <span className="font-semibold">Ken</span> booked 3 qualified calls within his first week using Genesis.
+  Our client <span className="font-semibold">Ken</span> booked 3 qualified calls within his first week using Gen systems.
         </div>
 
         {/* Full-width Screenshots */}

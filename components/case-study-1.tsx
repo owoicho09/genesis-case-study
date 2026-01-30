@@ -2,7 +2,7 @@
 import Link from "next/link"
 
 const GOOGLE_CALENDAR_LINK = "https://calendly.com/michaelogaje033/30min";
-const WHATSAPP_NUMBER = "2348142878380"; // Replace with full number (no +)
+const WHATSAPP_NUMBER = "2349165092953"; // Replace with full number (no +)
 const WHATSAPP_MESSAGE = "Hello! I'd like to learn how your client acquisition system works.";
 
 export default function CaseStudy1() {
@@ -13,7 +13,7 @@ export default function CaseStudy1() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 text-balance">Real Conversations, Real Results</h2>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-  Before Genesis, Ken relied on manual prospecting and irregular outreach — which made scaling impossible. Our system automated his lead flow and helped him maintain consistent client acquisition.
+  Before Gen, Ken relied on manual prospecting and irregular outreach — which made scaling impossible. Our system automated his lead flow and helped him maintain consistent client acquisition.
           </p>
         </div>
 
@@ -22,10 +22,10 @@ export default function CaseStudy1() {
           {/* Before */}
           <div className="group">
             <div className="bg-slate-100 rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow mb-4">
-              <img src="/casestudy before.jpg" alt="Before Genesis: Low replies" className="w-full h-auto" />
+              <img src="/casestudy before.jpg" alt="Before Gen: Low replies" className="w-full h-auto" />
             </div>
             <div className="text-center">
-              <h3 className="font-semibold text-slate-900 mb-2">Before Genesis</h3>
+              <h3 className="font-semibold text-slate-900 mb-2">Before Gen</h3>
               <p className="text-sm text-slate-600">  Ken booked only 3–4 calls a month because his lead flow was inconsistent and couldn’t scale beyond manual outreach.</p>
             </div>
           </div>
@@ -35,12 +35,12 @@ export default function CaseStudy1() {
             <div className="bg-slate-100 rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow mb-4">
               <img
                 src="/casesudy after1.jpg"
-                alt="After Genesis: Booked call confirmed"
+                alt="After Gen: Booked call confirmed"
                 className="w-full h-auto"
               />
             </div>
             <div className="text-center">
-              <h3 className="font-semibold text-slate-900 mb-2">After Genesis</h3>
+              <h3 className="font-semibold text-slate-900 mb-2">After Gen</h3>
               <p className="text-sm text-slate-600">  We delivered highly targeted leads to his outreach every week — and within just 5 days, Ken had already booked 3 qualified calls.</p>
               <p className="text-sm text-slate-600"> It all came down to having a reliable lead flow and an outreach system that actually converts.</p>
 

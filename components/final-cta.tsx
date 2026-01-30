@@ -5,7 +5,7 @@ import { MessageCircle, Phone } from "lucide-react"
 import Link from "next/link"
 
 const GOOGLE_CALENDAR_LINK = "https://calendly.com/michaelogaje033/30min";
-const WHATSAPP_NUMBER = "2348142878380"; // Replace with full number (no +)
+const WHATSAPP_NUMBER = "2349165092953"; // Replace with full number (no +)
 const WHATSAPP_MESSAGE = "Hello! I'd like to learn how your client acquisition system works.";
 
 export default function FinalCTA() {
@@ -19,7 +19,7 @@ export default function FinalCTA() {
 
         {/* Subheading */}
         <p className="text-lg md:text-xl text-blue-100 mb-12 max-w-2xl mx-auto leading-relaxed">
-          Work with Genesis to book more calls and close more deals.
+          Work with Gen system to book more calls and close more deals.
         </p>
 
         {/* CTA Buttons */}

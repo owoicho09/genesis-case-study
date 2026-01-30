@@ -4,7 +4,7 @@ import Link from "next/link"
 import { useState, useRef, useEffect } from "react"
 import { Play, Pause } from "lucide-react"
 const GOOGLE_CALENDAR_LINK = "https://calendly.com/michaelogaje033/30min";
-const WHATSAPP_NUMBER = "2348142878380"; // Replace with full number (no +)
+const WHATSAPP_NUMBER = "2349165092953"; // Replace with full number (no +)
 const WHATSAPP_MESSAGE = "Hello! I'd like to learn how your client acquisition system works.";
 
 export default function CaseStudy2() {
@@ -43,7 +43,7 @@ export default function CaseStudy2() {
             Hear It From the Client
           </h2>
           <p className="text-slate-600">
-            Real feedback from client who transformed their outreach with Genesis
+            Real feedback from client who transformed their outreach with Gen systems
           </p>
         </div>
 
@@ -81,19 +81,18 @@ export default function CaseStudy2() {
                     : `${height * 0.4}%`,
                   opacity: isPlaying ? 0.9 : 0.4,
                 }}
-              />
-            ))}
-          </div>
+                />
+                ))}
+            </div>
 
           {/* Testimonial Text */}
           <p className="text-lg text-slate-700 mb-4 italic">
-  "They delivered leads that actually turned into real business opportunities — we booked 3 calls in the first week."
+                "They delivered leads that actually turned into real business opportunities — we booked 3 calls in the first week."
           </p>
 
           {/* Client Name */}
           <div className="mb-8">
             <p className="font-semibold text-slate-900">Ken Kiyoshi</p>
-            <p className="text-sm text-slate-600">Founder, Funnel Edge </p>
           </div>
 
           {/* CTA */}

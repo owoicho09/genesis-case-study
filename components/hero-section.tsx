@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button"
 import { MessageCircle } from "lucide-react"
 
 const GOOGLE_CALENDAR_LINK = "https://calendly.com/michaelogaje033/30min";
-const WHATSAPP_NUMBER = "2348142878380"; // Replace with full number (no +)
+const WHATSAPP_NUMBER = "2349165092953"; // Replace with full number (no +)
 const WHATSAPP_MESSAGE = "Hello! I'd like to learn how your client acquisition system works.";
 
 
@@ -26,19 +26,19 @@ export default function HeroSection() {
         {/* Logo/Brand */}
         <div className="mb-8 inline-block">
           <div className="text-sm font-semibold text-blue-600 bg-blue-50 px-4 py-2 rounded-full">
-            Genesis.ai
+            Gen system
           </div>
         </div>
 
         {/* Main Headline */}
         <h1 className="text-4xl md:text-6xl font-bold text-slate-900 mb-6 leading-tight text-balance">
-          Client Results.
+          Gen system
         </h1>
 
         {/* Subheadline */}
         <p className="text-lg md:text-xl text-slate-600 mb-12 max-w-2xl mx-auto leading-relaxed text-balance">
-          Genesis booked consistent calls
-          within weeks using a fully automated client acquisition system — from no leads inboxes to booked calls on autopilot.
+          Skip the manual prospecting and book consistent qualified calls
+          within weeks using a fully automated client acquisition system — from hours spent on manual lead chasing to a predictable pipeline.
         </p>
 
         {/* CTA Buttons */}
@@ -72,7 +72,7 @@ export default function HeroSection() {
         {/* Hero Visual - Dashboard Mockup */}
         <div className="relative">
           <div className="bg-white rounded-2xl shadow-2xl overflow-hidden border border-slate-200">
-            <img src="/analytics.JPG" alt="Genesis.ai Dashboard" className="w-full h-auto" />
+            <img src="/analytics.JPG" alt="Gen system Dashboard" className="w-full h-auto" />
           </div>
           {/* Floating card accent */}
           <div className="absolute -bottom-6 -right-6 bg-white rounded-xl shadow-xl p-4 border border-slate-200 max-w-xs hidden md:block">
